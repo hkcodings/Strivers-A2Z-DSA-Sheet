@@ -30,7 +30,7 @@ My journey of solving **Striver's A2Z DSA Sheet** to strengthen my Data Structur
 - [ ] Advanced Strings
 
 ## 💻 Languages Used
-- C++ / Java / Python
+- Java / Python
 
 ## 📈 Progress
 
