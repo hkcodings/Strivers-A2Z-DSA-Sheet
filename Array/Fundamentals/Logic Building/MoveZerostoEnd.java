@@ -15,7 +15,7 @@ class Solution {
 }
 
 //In Python
-class Solution:
+/* class Solution:
     def moveZeroes(self, nums):
         j = 0;
         for i in range(len(nums)):
@@ -25,7 +25,7 @@ class Solution:
         while(j<len(nums)):
             nums[j]=0;
             j = j+1;
-
+*/
 
 /*  Approach
 1. Use two pointers i and j.
